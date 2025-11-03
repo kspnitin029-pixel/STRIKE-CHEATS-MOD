@@ -13,14 +13,8 @@
     },
     {
         "device_id": "b70e40483b69bb68",
-        "key": "nitin001",
+        "key": "niti",
         "expirydate": "15-11-2025",
         "Allowoffline": false
-    },
-    {
-        "device_id": "bf23118ca412edd0",
-        "key": "ankit001",
-        "expirydate": "15-11-2025",
-        "Allowoffline": false
-    },
+    }
 ]
