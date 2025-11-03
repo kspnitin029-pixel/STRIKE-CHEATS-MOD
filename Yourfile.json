@@ -31,8 +31,9 @@
     },
     {
         "device_id": "bf23118ca412edd0",
-        "key": "model",
-        "expirydate": "15-12-2025",
-        "Allowoffline": false
-    }   
+        "key": "key12345",
+        "expirydate": "17-12-2025",
+        "Allowoffline": true
+    },
+    
 ]
