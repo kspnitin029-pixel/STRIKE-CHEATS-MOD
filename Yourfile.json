@@ -31,9 +31,8 @@
     },
     {
         "device_id": "bf23118ca412edd0",
-        "key": "key12345",
+        "key": "key12",
         "expirydate": "17-12-2025",
         "Allowoffline": true
-    },
-    
+    }  
 ]
